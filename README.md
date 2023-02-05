@@ -61,15 +61,3 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
   <a margin="10" href="https://nestjs.com/" target="_blank"><img margin="10px" height="40" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs"></a>
     <a margin="10" href="https://www.php.net/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/350px-Webysther_20160423_-_Elephpant.svg.png" alt="php"></a>
     <a margin="10" href="https://symfony.com" target="_blank"><img margin="10px" height="40" src="https://symfony.com/images/logos/header-logo.svg" alt="symfony"></a>
-<br />
-<br />
-<a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a>
-</div>
-<br />
-<br />
----
-
-<div align="center">
-Credit: [abdoachhoubi](https://github.com/abdoachhoubi)
-Last Edited on: 30/06/2022
-</div>
