@@ -60,4 +60,4 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/mongodb.svg" alt="mongodb"></a>
   <a margin="10" href="https://nestjs.com/" target="_blank"><img margin="10px" height="40" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs"></a>
     <a margin="10" href="https://www.php.net/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/350px-Webysther_20160423_-_Elephpant.svg.png" alt="php"></a>
-    <a margin="10" href="https://symfony.com" target="_blank"><img margin="10px" height="40" src="https://symfony.com/images/logos/header-logo.svg" alt="symfony"></a>
+    <a margin="10" href="https://symfony.com" target="_blank"><img margin="10px" height="40" src="https://symfony.com/logos/symfony_white_03.png" alt="symfony"></a>
