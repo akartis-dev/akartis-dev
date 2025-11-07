@@ -12,7 +12,7 @@
 I'm a Full Stack Developer with 7+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
 
-I'm currently based in **Antananarivo, Madagascar**
+I'm currently based in **Paris, France**
 
 <br />
 I love learning new techs and using new tools. I also love drinking coffee while coding.
